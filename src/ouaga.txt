@@ -68,3 +68,5 @@ sonrasinda local branche gecip git merge master yap
 - eger Team Lead onay verir ve bizim merge etmemizi isterse; yukarilarda
 biryerlerde:) anlatildigi gibi  remote branch e push ettikten sonra remote
  master'a merge et ()
+
+ cok guzel
